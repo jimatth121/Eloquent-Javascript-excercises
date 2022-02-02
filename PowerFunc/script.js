@@ -7,3 +7,6 @@ let power = function(base, exponent){
     }
     return result
 }
+
+
+console.log(power(4,2)
